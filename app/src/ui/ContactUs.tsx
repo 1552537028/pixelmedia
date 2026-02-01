@@ -1,7 +1,7 @@
 import { Mail, Phone, Instagram, MessageCircle } from "lucide-react"
 
 export default function ContactCenter() {
-  const phoneNumber = "8977706539"
+  const phoneNumber = "+918977706539"
   const whatsappMessage = encodeURIComponent("Hi, I seen your website now and want to contact you!")
 
   return (
@@ -19,7 +19,7 @@ export default function ContactCenter() {
 
         {/* Phone */}
         <a
-          href="tel:+91 89777 06539"
+          href="tel:+918977706539"
           className="flex items-center justify-center gap-3 text-lg hover:text-green-600"
         >
           <Phone />
