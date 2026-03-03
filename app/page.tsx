@@ -47,7 +47,7 @@ export default function Home() {
 
       <center className="mb-10 mt-5 py-5 text-center">
         <h2 className="text-sm font-medium text-gray-500 dark:text-neutral-400">
-          © 2024 Your Company. All rights reserved.
+          © 2026 GOLDEN PIXEL MEDIA . All rights reserved.
         </h2>
       </center>
       <Chatbot/>
